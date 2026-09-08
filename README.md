@@ -6,6 +6,11 @@ A tiny sandbox repo for practicing the GitHub pull request workflow.
 
 This repo exists so you can experience opening, reviewing, and merging your first pull request end to end.
 
+## Prerequisites
+
+- [Git](https://git-scm.com/downloads) installed locally.
+- A [GitHub account](https://github.com/join) with push access to this repo.
+
 ## Usage
 
 1. Make a change on a branch.
